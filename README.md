@@ -4,7 +4,7 @@ A sample, fairly bare-bones setup for Dropwizard API which serves necessary file
 
 # Building locally
 
-run `mvn package` and then `java -jar target/api-1.0-SNAPSHOT.jar server server.conf` or use run_api.sh file, which does exactly the same thing.
+run `mvn package` and then `java -jar target/api-1.0-SNAPSHOT.jar server server.conf` or use `run_api.sh` file, which does exactly the same thing.
 
 # Deploying to heroku
 
@@ -24,7 +24,7 @@ You can test the `Procfile` installing [foreman](https://rubygems.org/gems/forem
 
 # Deployed example
 
-Visit [http://secure-hamlet-8382.herokuapp.com](http://secure-hamlet-8382.herokuapp.com) to see a working sample
+Visit [http://frozen-sea-5668.herokuapp.com](http://frozen-sea-5668.herokuapp.com) to see a working sample
 
 # Interesting bits
 
